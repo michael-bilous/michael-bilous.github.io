@@ -1,0 +1,127 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Michael Bilous
+    tagline: Software engineer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: hello@mbilous.com
+    phone: 
+    website: cv.mbilous.com #do not add http://
+    linkedin: michaelbilous
+    github: # michaelbilous
+    gitlab:
+    bitbucket:
+    twitter: # '@michaelbilous'
+    stack-overflow: # Number/Username
+    codewars:
+    goodreads: # Number-Username
+
+    languages:
+      - idiom: English
+        level: Fluent
+
+      - idiom: Russian
+        level: Native
+
+      - idiom: Ukrainian
+        level: Native
+
+    interests:
+      - item: DIY
+        link:
+
+      - item: Computer hardware & Networking & HomeLab
+        link:
+
+      - item: Photography
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Detail-oriented and self-driven .NET Developer with a proven track record of success in developing and implementing web-based solutions, maintaining and updating web applications, and improving the whole programming process. Developer with a deep passion for technology, extensive technological expertise, and well-developed teamwork abilities.
+
+#Certified Web Development Professional
+#news:
+#    title: News
+#    intro: |        
+#    
+#    posts:
+#        - time: July 2019
+#          title: 
+#         
+#        - time: July 2019
+#          title:
+#         
+#        - time: 2019
+#          title: 
+        
+education:
+    - degree: Vocational education
+      university: Lviv College of communication
+      time: 2008 - 2012
+      details: |
+
+
+educationcomplete:
+    - degree: Vocational education
+      university: Lviv College of communication
+      time: 2008 - 2012
+      details: |
+      
+    - degree: IT Courses
+      university: STEP Computer Academy in Lviv
+      time: 2008 - 2012
+      details: |
+
+
+experiences:
+    - role: .NET Developer
+      time: 2017 - Present
+      company: Align Technology, Tel Aviv, Israel
+      details: |
+          - Perform design, implementation and maintenance of relatively complex modules
+          - Performed a mix of maintenance, enhancements and new development as required
+          - Perform code reviews with other developers and suggest improvements or alternate strategies.
+
+#projects:
+    #title: Projects
+    #intro: >
+      #You can list your side projects or open source libraries in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    #assignments:
+      #- title: title
+        #link: "#"
+        #tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+#publications:
+#    title: Publications
+#    intro: |      
+#
+#    papers:
+#      - title:
+#        authors:
+#        conference:
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: .NET Framework
+        level: 90%
+
+      - name: C#
+        level: 90%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
