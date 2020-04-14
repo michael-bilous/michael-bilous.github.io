@@ -16,7 +16,7 @@ sidebar:
     phone: 
     website: cv.mbilous.com #do not add http://
     linkedin: michaelbilous
-    github: # michaelbilous
+    github: michael-bilous
     gitlab:
     bitbucket:
     twitter: # '@michaelbilous'
@@ -85,12 +85,36 @@ educationcomplete:
 
 experiences:
     - role: .NET Developer
-      time: 2017 - Present
-      company: Align Technology, Tel Aviv, Israel
+      time: October 2017 - Present (2+ years)
+      company: Align Technology  (Tel Aviv, Israel)
       details: |
           - Perform design, implementation and maintenance of relatively complex modules
           - Performed a mix of maintenance, enhancements and new development as required
           - Perform code reviews with other developers and suggest improvements or alternate strategies.
+          
+    - role: .NET Full Stack Developer
+      time: August 2016 - October 2017 (1 year 3 months)
+      company: IDMR-Solutions (Ra'anana, Israel)
+      details: |
+          - TBD...
+          
+    - role: Freelancer
+      time: October 2015 - August 2016 (10 months)
+      company: Freelancer (Tel Aviv, Israel)
+      details: |
+          - TBD... 
+    
+    - role: .NET Full Stack Developer
+      time: September 2013 - October 2015 (2 years 2 months)
+      company: 5PRO Software (Lviv, Ukraine)
+      details: |
+          - TBD...
+          
+    - role: .NET Full Stack Developer
+      time: April 2012 - September 2013 (1 year 6 months)
+      company: Lemberg Solutions Limited (Lviv, Ukraine)
+      details: |
+          - TBD...
 
 #projects:
     #title: Projects
