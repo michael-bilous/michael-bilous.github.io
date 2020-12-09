@@ -34,14 +34,29 @@ sidebar:
       - idiom: Ukrainian
         level: Native
 
-    interests:
+    interests:        
       - item: DIY
+        icon: fas fa-tools
         link:
 
-      - item: Computer hardware & Networking & HomeLab
+      - item: Radio-Electronics
+        icon: fas fa-microchip
+        link:
+
+      - item: Computer hardware
+        icon: fas fa-desktop
+        link:
+     
+      - item: Networking
+        icon: fas fa-network-wired
+        link:
+
+      - item: Servers & Virtualization
+        icon: fas fa-server
         link:
 
       - item: Photography
+        icon: fas fa-camera
         link:
 
 career-profile:
@@ -86,7 +101,9 @@ educationcomplete:
 experiences:
     - role: .NET Developer
       time: October 2017 - Present (2+ years)
-      company: Align Technology  (Tel Aviv, Israel)
+      start: Oct 2017
+      company: Align Technology
+      address: Tel Aviv, Israel
       details: |
           - Perform design, implementation and maintenance of relatively complex modules
           - Performed a mix of maintenance, enhancements and new development as required
@@ -94,25 +111,37 @@ experiences:
           
     - role: .NET Full Stack Developer
       time: August 2016 - October 2017 (1 year 3 months)
-      company: IDMR-Solutions (Ra'anana, Israel)
+      start: August 2016
+      end: October 2017
+      company: IDMR-Solutions
+      address: Ra'anana, Israel
       details: |
           - TBD...
           
-    - role: Freelancer
+    - role: .NET Developer
       time: October 2015 - August 2016 (10 months)
-      company: Freelancer (Tel Aviv, Israel)
+      start: October 2015 
+      end: August 2016
+      company: Freelancer.com 
+      address: Tel Aviv, Israel
       details: |
           - TBD... 
     
     - role: .NET Full Stack Developer
       time: September 2013 - October 2015 (2 years 2 months)
-      company: 5PRO Software (Lviv, Ukraine)
+      start: September 2013 
+      end: October 2015
+      company: 5PRO Software
+      address: Lviv, Ukraine
       details: |
           - TBD...
           
     - role: .NET Full Stack Developer
       time: April 2012 - September 2013 (1 year 6 months)
-      company: Lemberg Solutions Limited (Lviv, Ukraine)
+      start: April 2012
+      end: September 2013
+      company: Lemberg Solutions Limited
+      address: Lviv, Ukraine
       details: |
           - TBD...
 

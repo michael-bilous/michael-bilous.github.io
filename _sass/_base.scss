@@ -150,7 +150,23 @@ p {
                 margin-bottom: 0;
             }
         }
+        .fas, .fab {
+            margin-right: 5px;
+            font-size: 18px;
+            vertical-align: middle;
+        }       
     }
+
+    .sub-interests-list{
+        margin-bottom: 0;
+        li {
+            margin-bottom: 0px;
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }  
+    
 }
 
 .main-wrapper {
@@ -180,24 +196,53 @@ p {
         overflow: hidden;
         margin-bottom: 2px;
     }
-    .job-title, .degree {
+    .degree {
         color: $text-color;
         font-size: 16px;
         margin-top: 0;
-        margin-bottom: 0;
+        margin-bottom: 0px;
         font-weight: 500;
     }
-    .time {
+    .job-title {
+        color: $text-color;
+        font-size: 16px;
+        margin-top: 0;
+        margin-bottom: 3px;
+        font-weight: 500;
+    }
+    .company  {
+        color: $text-color;
+        font-size: 16px;
         position: absolute;
         right: 0;
         top: 0;
+        margin-top: 0;
+        margin-bottom: 0;
+        font-weight: 500;        
+    }   
+    .time {
+        margin-bottom: 10px;
         color: $text-grey;
+        right: 0;        
+    } 
+    .company-address {
+        margin-bottom: 10px;
+        color: $text-grey;
+        position: absolute;
+        right: 0;
+        top: 0;
+        margin-top: 0;
+        margin-bottom: 0;
+        font-weight: 500;             
     }
-    .company, .university {
+    .company-address-icon{
+        margin-right: 3px;
+        margin-left: 3px;
+    }     
+    .university {
         margin-bottom: 10px;
         color: $text-grey;
     }
-
     .project-title {
         font-size: 16px;
         font-weight: 400;
